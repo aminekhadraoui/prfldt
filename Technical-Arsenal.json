@@ -3,11 +3,13 @@
     "mern": [{ "name": "MERN Stack" }],
     "react-native": [{ "name": "React Native" }],
     "node": [{ "name": "Node.js" }],
-   
+    "database": [{ "name": "MongoDB" }],
+    "cloud": [{ "name": "Firebase" }],
     "tools": [{ "name": "Git & CI/CD" }]
   },
   "currentlyMastering": {
-   
+    "performance": [{ "icon": "🔧", "name": "React Native Performance Optimization" }],
+    "architecture": [{ "icon": "📱", "name": "Cross-Platform Architecture" }],
     "state-management": [{ "icon": "⚛️", "name": "State Management Solutions" }],
     "security": [{ "icon": "🔐", "name": "Secure Mobile Authentication" }]
   }
