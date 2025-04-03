@@ -1,1 +1,29 @@
-aezaza
+{
+  "technicalArsenal": {
+    "languages": [
+      { "name": "JavaScript", "icon": "fab fa-js", "level": "Advanced" },
+      { "name": "Python", "icon": "fab fa-python", "level": "Intermediate" }
+    ],
+    "frameworks": [
+      { "name": "React", "icon": "fab fa-react", "level": "Advanced" },
+      { "name": "Node.js", "icon": "fab fa-node", "level": "Intermediate" }
+    ],
+    "databases": [
+      { "name": "MySQL", "icon": "fas fa-database", "level": "Intermediate" }
+    ],
+    "tools": [
+      { "name": "Git", "icon": "fab fa-git-alt", "level": "Advanced" }
+    ]
+  },
+  "currentlyMastering": {
+    "languages": [
+      { "name": "TypeScript", "icon": "fas fa-code", "progress": 65 }
+    ],
+    "frameworks": [
+      { "name": "Next.js", "icon": "fas fa-forward", "progress": 75 }
+    ],
+    "concepts": [
+      { "name": "WebAssembly", "icon": "fas fa-window-maximize", "progress": 35 }
+    ]
+  }
+}
