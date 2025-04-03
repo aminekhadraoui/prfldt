@@ -1,0 +1,78 @@
+{
+  "experiences": [
+    {
+      "title": "MERN Stack Developer Intern",
+      "date": "Feb 2023 — Jun 2023",
+      "text": "Gustaza Group Ltd. · 5 months · Remote",
+      "points": [
+        "Developed full-stack applications using MongoDB, Express, React, and Node.js",
+        "Implemented RESTful APIs and integrated third-party services",
+        "Collaborated on agile development team to deliver enterprise solutions"
+      ],
+      "endDate": "2023-06"
+    },
+    {
+      "title": "Next.js Developer",
+      "date": "Feb 2023 — Mar 2023",
+      "text": "Gustaza Group Ltd. · 2 months · Remote",
+      "points": [
+        "Built server-side rendered applications with Next.js",
+        "Optimized web performance through SSR and SSG techniques",
+        "Implemented TypeScript in production-grade applications"
+      ],
+      "endDate": "2023-03"
+    },
+    {
+      "title": "PHP Backend Developer & Security Specialist",
+      "date": "Sep 2009 — Oct 2015",
+      "text": "Tejax · 6 years 2 months · Remote",
+      "points": [
+        "Developed secure PHP-based backend systems for enterprise applications",
+        "Conducted comprehensive vulnerability assessments including:",
+        "• SQL injection testing and prevention",
+        "• Blind SQL injection detection and mitigation",
+        "• XSS and CSRF vulnerability identification",
+        "• Session hijacking protection implementation",
+        "Designed and implemented security protocols for database systems",
+        "Created automated penetration testing scripts using PHP",
+        "Performed security audits for financial transaction systems",
+        "Developed custom security modules for legacy PHP applications",
+        "Implemented real-time intrusion detection systems"
+      ],
+      "endDate": "2015-10"
+    },
+    {
+      "title": "React.js Developer Intern",
+      "date": "Jan 2022 — Feb 2022",
+      "text": "2 months · Remote",
+      "points": [
+        "Developed responsive user interfaces with React.js",
+        "Integrated state management using Redux Toolkit",
+        "Implemented modern UI/UX design patterns"
+      ],
+      "endDate": "2022-02"
+    },
+    {
+      "title": "React.js Fundamentals Intern",
+      "date": "Jan 2021 — Feb 2021",
+      "text": "2 months · Remote",
+      "points": [
+        "Mastered React component lifecycle management",
+        "Built single-page applications with React Router",
+        "Practiced test-driven development with Jest"
+      ],
+      "endDate": "2021-02"
+    },
+    {
+      "title": "React.js Early Adopter Intern",
+      "date": "Jul 2018 — Oct 2018",
+      "text": "4 months · Remote",
+      "points": [
+        "Pioneered React.js adoption in legacy systems",
+        "Migrated jQuery applications to React",
+        "Implemented class-based components architecture"
+      ],
+      "endDate": "2018-10"
+    }
+  ]
+}
