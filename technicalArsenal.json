@@ -4,41 +4,41 @@
     "title": "Web Development",
     "percent": 90,
     "color": "#7c3aed",
-    "techStack": ["React", "Node.js", "TypeScript", "GraphQL", "Next.js", "Express"]
+    "techStack": ["React", "Node.js", "TypeScript", "GraphQL"]
   },
   {
     "icon": "FiSmartphone",
     "title": "Mobile Development",
     "percent": 85,
     "color": "#3b82f6",
-    "techStack": ["Flutter", "React Native", "Kotlin", "Swift", "Android SDK", "iOS Development"]
+    "techStack": ["Flutter", "React Native", "Kotlin", "Swift"]
   },
   {
     "icon": "FiCpu",
     "title": "AI/ML",
     "percent": 75,
     "color": "#10b981",
-    "techStack": ["TensorFlow", "PyTorch", "OpenCV", "NLP", "Computer Vision", "Scikit-learn"]
+    "techStack": ["TensorFlow", "PyTorch", "OpenCV", "NLP"]
   },
   {
     "icon": "FiDatabase",
     "title": "Database Design",
     "percent": 80,
     "color": "#f59e0b",
-    "techStack": ["PostgreSQL", "MongoDB", "Redis", "Firebase", "MySQL", "Cassandra"]
+    "techStack": ["PostgreSQL", "MongoDB", "Redis", "Firebase"]
   },
   {
     "icon": "FiCloud",
     "title": "Cloud Services",
     "percent": 70,
     "color": "#ef4444",
-    "techStack": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform", "Serverless"]
+    "techStack": ["AWS", "Docker", "Kubernetes", "CI/CD"]
   },
   {
     "icon": "FiBox",
     "title": "CMS Integration",
     "percent": 60,
     "color": "#8b5cf6",
-    "techStack": ["WordPress", "Shopify", "Strapi", "Sanity", "Contentful", "Drupal"]
+    "techStack": ["WordPress", "Shopify", "Strapi", "Sanity"]
   }
 ]
