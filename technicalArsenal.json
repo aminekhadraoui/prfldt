@@ -1,0 +1,8 @@
+ const stacks = {
+    'Web Development': ['React', 'Node.js', 'TypeScript', 'GraphQL'],
+    'Mobile Development': ['Flutter', 'React Native', 'Kotlin', 'Swift'],
+    'AI/ML': ['TensorFlow', 'PyTorch', 'OpenCV', 'NLP'],
+    'Database Design': ['PostgreSQL', 'MongoDB', 'Redis', 'Firebase'],
+    'Cloud Services': ['AWS', 'Docker', 'Kubernetes', 'CI/CD'],
+    'CMS Integration': ['WordPress', 'Shopify', 'Strapi', 'Sanity']
+  };
