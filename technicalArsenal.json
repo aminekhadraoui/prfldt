@@ -1,8 +1,44 @@
- const stacks = {
-    'Web Development': ['React', 'Node.js', 'TypeScript', 'GraphQL'],
-    'Mobile Development': ['Flutter', 'React Native', 'Kotlin', 'Swift'],
-    'AI/ML': ['TensorFlow', 'PyTorch', 'OpenCV', 'NLP'],
-    'Database Design': ['PostgreSQL', 'MongoDB', 'Redis', 'Firebase'],
-    'Cloud Services': ['AWS', 'Docker', 'Kubernetes', 'CI/CD'],
-    'CMS Integration': ['WordPress', 'Shopify', 'Strapi', 'Sanity']
-  };
+[
+  {
+    "icon": "FiCode",
+    "title": "Web Development",
+    "percent": 90,
+    "color": "#7c3aed",
+    "techStack": ["React", "Node.js", "TypeScript", "GraphQL", "Next.js", "Express"]
+  },
+  {
+    "icon": "FiSmartphone",
+    "title": "Mobile Development",
+    "percent": 85,
+    "color": "#3b82f6",
+    "techStack": ["Flutter", "React Native", "Kotlin", "Swift", "Android SDK", "iOS Development"]
+  },
+  {
+    "icon": "FiCpu",
+    "title": "AI/ML",
+    "percent": 75,
+    "color": "#10b981",
+    "techStack": ["TensorFlow", "PyTorch", "OpenCV", "NLP", "Computer Vision", "Scikit-learn"]
+  },
+  {
+    "icon": "FiDatabase",
+    "title": "Database Design",
+    "percent": 80,
+    "color": "#f59e0b",
+    "techStack": ["PostgreSQL", "MongoDB", "Redis", "Firebase", "MySQL", "Cassandra"]
+  },
+  {
+    "icon": "FiCloud",
+    "title": "Cloud Services",
+    "percent": 70,
+    "color": "#ef4444",
+    "techStack": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform", "Serverless"]
+  },
+  {
+    "icon": "FiBox",
+    "title": "CMS Integration",
+    "percent": 60,
+    "color": "#8b5cf6",
+    "techStack": ["WordPress", "Shopify", "Strapi", "Sanity", "Contentful", "Drupal"]
+  }
+]
