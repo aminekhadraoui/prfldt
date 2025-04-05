@@ -60,8 +60,9 @@
       "subType": "generator",
       "description": "AI-powered React Native screen generator from HTML/CSS mockups.",
       "tech": ["Python", "Computer Vision", "React Native", "AST"],
-      "github": "#",
-      "live": "#"
+      "github": "https://github.com/aminekhadraoui/BIGMOM",
+      "live": "https://big-mom.netlify.app"
+      
     },
     {
       "title": "Kaido Backend Builder",
