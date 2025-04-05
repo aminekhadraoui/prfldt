@@ -62,7 +62,7 @@
       "tech": ["Python", "Computer Vision", "React Native", "AST"],
       "github": "https://github.com/aminekhadraoui/BIGMOM",
       "live": "https://big-mom.netlify.app",
-      "img": "https://i.ibb.co/S7ZFgLw1/bigmom.png"
+      "img0": "https://i.ibb.co/S7ZFgLw1/bigmom.png",
     },
     {
       "title": "Kaido Backend Builder",
@@ -72,7 +72,7 @@
       "tech": ["Node.js", "WebAssembly", "IndexedDB", "WebSocket"],
       "github": "https://github.com/aminekhadraoui/kaido",
       "live": "https://kaido-generator.netlify.app",
-      "img": "https://i.ibb.co/tTS1FkfD/kaido.png"
+      "img1": "https://i.ibb.co/tTS1FkfD/kaido.png"
     },
     {
       "title": "Miral Framework",
