@@ -70,8 +70,8 @@
       "subType": "backend",
       "description": "Visual database and API builder with real-time collaboration.",
       "tech": ["Node.js", "WebAssembly", "IndexedDB", "WebSocket"],
-      "github": "#",
-      "live": "#"
+      "github": "https://github.com/aminekhadraoui/kaido",
+      "live": "https://kaido-generator.netlify.app"
     },
     {
       "title": "Miral Framework",
