@@ -1,5 +1,15 @@
 {
   "projects": [
+     {
+      "title": "FAQ Login Guide",
+      "type": "web",
+      "subType": "react",
+      "description": "A React.js FAQ component displaying common login-related questions and answers dynamically.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://peaceful-alpaca-e3dca4.netlify.app",
+      "img": "https://i.ibb.co/R4vcTfvg/azd.png"
+    },
     {
       "title": "MedBook - Doctors Appointment System",
       "type": "web",
