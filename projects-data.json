@@ -91,10 +91,20 @@
       "tech": ["TypeScript", "MySQL", "OpenAPI", "JWT"],
       "github": "#",
       "live": "#"
+    },
+    {
+      "title": "Birthday Reminder",
+      "type": "web",
+      "subType": "react",
+      "description": "A sleek birthday reminder app to track and manage upcoming birthdays.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://app.netlify.com/sites/velvety-vacherin-edcda5/overview",
+      "img": "https://i.ibb.co/m5hp2SjB/bd.png"
     }
   ],
   "categories": {
-    "web": ["full-stack"],
+    "web": ["full-stack", "react"],
     "mobile": ["productivity", "e-commerce", "restaurant", "design", "healthcare"],
     "tool": ["generator", "backend", "framework"]
   }
