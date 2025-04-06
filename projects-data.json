@@ -99,8 +99,18 @@
       "description": "A sleek birthday reminder app to track and manage upcoming birthdays.",
       "tech": ["React.js"],
       "github": "#",
-      "live": "https://velvety-vacherin-edcda5.netlify.app",
+      "live": "https://app.netlify.com/sites/velvety-vacherin-edcda5/overview",
       "img": "https://i.ibb.co/m5hp2SjB/bd.png"
+    },
+    {
+      "title": "Reviews App",
+      "type": "web",
+      "subType": "react",
+      "description": "Interactive reviews interface built with React.js, ideal for showcasing user feedback.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://gleaming-speculoos-72dbb5.netlify.app",
+      "img": "https://i.ibb.co/Xrm8Vq9n/reviews.png"
     }
   ],
   "categories": {
