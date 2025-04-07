@@ -1,1 +1,41 @@
 
+[
+  {
+    "period": "2015-2018",
+    "title": "High School Diploma - Computer Science",
+    "icon": "book",
+    "position": "left",
+    "description": "Mastered foundational concepts in software development and system design:",
+    "skills": [
+      { "name": "Programming", "icon": "code" },
+      { "name": "Databases", "icon": "database" },
+      { "name": "Web Dev" },
+      { "name": "Algorithms" }
+    ],
+    "details": [
+      "Python & Pascal Programming",
+      "HTML/CSS/JavaScript",
+      "MySQL Database Design",
+      "Algorithm Optimization"
+    ]
+  },
+  {
+    "period": "2019-2020",
+    "title": "Best Challenge Center - Advanced Web Development",
+    "icon": "code",
+    "position": "right",
+    "description": "Professional web development intensive training:",
+    "skills": [
+      { "name": "Angular" },
+      { "name": "Laravel" },
+      { "name": "UI/UX" },
+      { "name": "APIs" }
+    ],
+    "details": [
+      "SPA Development with Angular",
+      "Laravel Backend Architecture",
+      "Responsive Web Design",
+      "RESTful API Integration"
+    ]
+  }
+]
