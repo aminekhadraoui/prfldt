@@ -1,69 +1,5 @@
 {
   "projects": [
-     {
-      "title": "FAQ Login Guide",
-      "type": "web",
-      "subType": "react",
-      "description": "A React.js FAQ component displaying common login-related questions and answers dynamically.",
-      "tech": ["React.js"],
-      "github": "#",
-      "live": "https://peaceful-alpaca-e3dca4.netlify.app",
-      "img": "https://i.ibb.co/R4vcTfvg/azd.png"
-    },
-    {
-      "title": "MedBook - Doctors Appointment System",
-      "type": "web",
-      "subType": "full-stack",
-      "description": "Full-stack medical appointment platform with real-time scheduling and patient management.",
-      "tech": ["PHP", "MySQL", "HTML5", "CSS3", "JavaScript", "jQuery"],
-      "github": "#",
-      "live": "#"
-    },
-    {
-      "title": "TaskMaster Pro",
-      "type": "mobile",
-      "subType": "productivity",
-      "description": "AI-powered todo app with smart suggestions and habit integration.",
-      "tech": ["React Native", "Firebase", "TensorFlow Lite", "Redux"],
-      "github": "#",
-      "live": "#"
-    },
-    {
-      "title": "ShopSphere Mobile",
-      "type": "mobile",
-      "subType": "e-commerce",
-      "description": "Augmented reality shopping experience with 3D product visualization.",
-      "tech": ["React Native", "ARKit", "Three.js", "Node.js"],
-      "github": "#",
-      "live": "#"
-    },
-    {
-      "title": "FoodieGenie",
-      "type": "mobile",
-      "subType": "restaurant",
-      "description": "Restaurant discovery app with AI-powered menu recommendations.",
-      "tech": ["React Native", "Python", "NLP", "Google Maps API"],
-      "github": "#",
-      "live": "#"
-    },
-    {
-      "title": "CardCraft Studio",
-      "type": "mobile",
-      "subType": "design",
-      "description": "Dynamic card generator with real-time collaborative editing.",
-      "tech": ["React Native", "Fabric.js", "WebSocket", "SVG"],
-      "github": "#",
-      "live": "#"
-    },
-    {
-      "title": "HealthGuardian",
-      "type": "mobile",
-      "subType": "healthcare",
-      "description": "Comprehensive health tracking with medical IoT integration.",
-      "tech": ["React Native", "Bluetooth LE", "HealthKit", "GraphQL"],
-      "github": "#",
-      "live": "#"
-    },
     {
       "title": "ScreenForge Robot",
       "type": "tool",
@@ -85,31 +21,13 @@
       "img": "https://i.ibb.co/tTS1FkfD/kaido.png"
     },
     {
-      "title": "Miral Framework",
-      "type": "tool",
-      "subType": "framework",
-      "description": "Extended HTML syntax with advanced flow control and templating.",
-      "tech": ["JavaScript", "Custom Elements", "Babel Plugin", "Web Components"],
-      "github": "#",
-      "live": "#"
-    },
-    {
-      "title": "Delphi API Express",
-      "type": "tool",
-      "subType": "generator",
-      "description": "Instant REST API generator from MySQL schemas with RBAC support.",
-      "tech": ["TypeScript", "MySQL", "OpenAPI", "JWT"],
-      "github": "#",
-      "live": "#"
-    },
-    {
       "title": "Birthday Reminder",
       "type": "web",
       "subType": "react",
       "description": "A sleek birthday reminder app to track and manage upcoming birthdays.",
       "tech": ["React.js"],
       "github": "#",
-      "live": "https://velvety-vacherin-edcda5.netlify.app",
+      "live": "https://app.netlify.com/sites/velvety-vacherin-edcda5/overview",
       "img": "https://i.ibb.co/m5hp2SjB/bd.png"
     },
     {
@@ -121,11 +39,30 @@
       "github": "#",
       "live": "https://gleaming-speculoos-72dbb5.netlify.app",
       "img": "https://i.ibb.co/Xrm8Vq9n/reviews.png"
+    },
+    {
+      "title": "FAQ Login Guide",
+      "type": "web",
+      "subType": "react",
+      "description": "A React.js FAQ component displaying common login-related questions and answers dynamically.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://peaceful-alpaca-e3dca4.netlify.app",
+      "img": "https://i.ibb.co/R4vcTfvg/azd.png"
+    },
+    {
+      "title": "Restaurant Menu App",
+      "type": "web",
+      "subType": "react",
+      "description": "Modern restaurant menu interface built with React.js for showcasing dishes dynamically.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://marvelous-parfait-1bce65.netlify.app",
+      "img": "https://i.ibb.co/gMVwDkBM/menu.png"
     }
   ],
   "categories": {
-    "web": ["full-stack", "react"],
-    "mobile": ["productivity", "e-commerce", "restaurant", "design", "healthcare"],
-    "tool": ["generator", "backend", "framework"]
+    "web": ["react"],
+    "tool": ["generator", "backend"]
   }
 }
