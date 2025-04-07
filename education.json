@@ -1,4 +1,3 @@
-
 [
   {
     "period": "2015-2018",
@@ -36,6 +35,27 @@
       "Laravel Backend Architecture",
       "Responsive Web Design",
       "RESTful API Integration"
+    ]
+  },
+  {
+    "period": "2020-2023",
+    "title": "Higher Institute of Applied Sciences - Sousse",
+    "icon": "shield",
+    "position": "left",
+    "description": "Comprehensive advanced degree in applied computer science:",
+    "skills": [
+      { "name": "Mobile", "icon": "smartphone" },
+      { "name": "Cybersecurity" },
+      { "name": ".NET/Symfony" },
+      { "name": "Agile" }
+    ],
+    "details": [
+      "Advanced Algorithms & Data Structures",
+      "Cybersecurity Fundamentals",
+      "Full Stack Development (React/.NET)",
+      "Mobile Development (Flutter/Android)",
+      "Database Optimization",
+      "Project Management"
     ]
   }
 ]
