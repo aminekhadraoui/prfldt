@@ -57,5 +57,34 @@
       "Database Optimization",
       "Project Management"
     ]
+  },
+  {
+  "period": "2024",
+  "title": "Complete React, Next.js & TypeScript Projects Course",
+  "icon": "code",
+  "position": "right",
+  "description": "Advanced frontend engineering certification:",
+  "skills": [
+    { "name": "React", "icon": "code" },
+    { "name": "Next.js" },
+    { "name": "TypeScript" },
+    { "name": "Prisma" },
+    { "name": "Zod" },
+    { "name": "Shadcn" }
+  ],
+  "details": [
+    "25+ production-grade projects",
+    "Modern React patterns and best practices",
+    "Type-safe development with TypeScript",
+    "Full-stack integration with Prisma ORM",
+    "Advanced state management solutions",
+    "UI component library implementation",
+    "API architecture and optimization",
+    "Professional workflow automation"
+  ],
+  "certification": {
+    "url": "https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=KEEPLEARNING",
+    "issuer": "Udemy - John Smilga"
   }
+}
 ]
