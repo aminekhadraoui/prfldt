@@ -89,10 +89,50 @@
       "github": "#",
       "live": "https://zingy-pie-a701b0.netlify.app",
       "img": "https://i.ibb.co/HLk3zZ6w/color-generator.png"
+    },
+    {
+      "title": "Grocery Bud",
+      "type": "web",
+      "subType": "crud",
+      "description": "A React-based CRUD app for managing a grocery shopping list.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://serene-sorbet-ff8320.netlify.app",
+      "img": "https://i.ibb.co/BHkWZNN5/grocery-bud.png"
+    },
+    {
+      "title": "Navbar Component",
+      "type": "web",
+      "subType": "react",
+      "description": "Responsive navbar built with React.js, featuring toggle functionality and links.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://hilarious-crisp-14415c.netlify.app",
+      "img": "https://i.ibb.co/KprR2pLs/navbar.png"
+    },
+    {
+      "title": "Sidebar Component",
+      "type": "web",
+      "subType": "react",
+      "description": "Interactive sidebar UI built using React.js for layout and navigation.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://luxury-bunny-64ac8d.netlify.app",
+      "img": "https://i.ibb.co/MvyF0Zx/side-bar.png"
+    },
+    {
+      "title": "Payments Infrastructure UI",
+      "type": "web",
+      "subType": "react",
+      "description": "Frontend UI for a fictional payments infrastructure platform built with React.js.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://benevolent-crumble-eaa521.netlify.app",
+      "img": "https://i.ibb.co/ZR01fpPP/Payments-infrastructure.png"
     }
   ],
   "categories": {
-    "web": ["react"],
+    "web": ["react", "crud"],
     "tool": ["generator", "backend"]
   }
 }
