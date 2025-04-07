@@ -59,6 +59,36 @@
       "github": "#",
       "live": "https://marvelous-parfait-1bce65.netlify.app",
       "img": "https://i.ibb.co/gMVwDkBM/menu.png"
+    },
+    {
+      "title": "Image Slider",
+      "type": "web",
+      "subType": "react",
+      "description": "Responsive image slider built in React.js with clean navigation and transitions.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://snazzy-bublanina-d73a43.netlify.app",
+      "img": "https://i.ibb.co/PvHC7BKm/slider.png"
+    },
+    {
+      "title": "Lorem Ipsum Generator",
+      "type": "web",
+      "subType": "react",
+      "description": "Randomized lorem ipsum text generator using React.js.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://adorable-alpaca-526eaf.netlify.app",
+      "img": "https://i.ibb.co/twWjr6yv/lorem.png"
+    },
+    {
+      "title": "Color Generator",
+      "type": "web",
+      "subType": "react",
+      "description": "Tool to generate tints and shades of any color input, built with React.js.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://zingy-pie-a701b0.netlify.app",
+      "img": "https://i.ibb.co/HLk3zZ6w/color-generator.png"
     }
   ],
   "categories": {
