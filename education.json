@@ -86,5 +86,34 @@
     "url": "https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=KEEPLEARNING",
     "issuer": "Udemy - John Smilga"
   }
+},
+  {
+  "period": "2024-2025",
+  "title": "React Native - The Practical Guide [2025]",
+  "icon": "smartphone",
+  "position": "left",
+  "description": "Mobile development mastery with React Native:",
+  "skills": [
+    { "name": "React Native", "icon": "code" },
+    { "name": "Expo" },
+    { "name": "Native Modules" },
+    { "name": "Navigation" },
+    { "name": "Animations" },
+    { "name": "APIs" }
+  ],
+  "details": [
+    "Cross-platform mobile app development",
+    "Advanced React Native architecture",
+    "State management for mobile applications",
+    "Native device features integration",
+    "Performance optimization techniques",
+    "Debugging and testing strategies",
+    "App deployment to stores",
+    "Continuous integration pipelines"
+  ],
+  "certification": {
+    "url": "https://www.udemy.com/course/react-native-the-practical-guide/?couponCode=KEEPLEARNING",
+    "issuer": "Udemy - Academind by Maximilian Schwarzmüller"
+  }
 }
 ]
