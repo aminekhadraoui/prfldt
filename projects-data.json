@@ -5,7 +5,7 @@
       "type": "tool",
       "subType": "generator",
       "description": "AI-powered React Native screen generator from HTML/CSS mockups.",
-      "tech": ["Vanilla JavaScript", "React Native"],
+      "tech": ["Python", "Computer Vision", "React Native", "AST"],
       "github": "https://github.com/aminekhadraoui/BIGMOM",
       "live": "https://big-mom.netlify.app",
       "img": "https://i.ibb.co/S7ZFgLw1/bigmom.png"
@@ -14,8 +14,8 @@
       "title": "Kaido Backend Builder",
       "type": "tool",
       "subType": "backend",
-      "description": "Client-side JavaScript visual builder for web templates and database structures with real-time collaboration features.",
-      "tech": ["Vanilla JavaScript","CSS Animations","HTML5"],
+      "description": "Visual database and API builder with real-time collaboration.",
+      "tech": ["Node.js", "WebAssembly", "IndexedDB", "WebSocket"],
       "github": "https://github.com/aminekhadraoui/kaido",
       "live": "https://kaido-generator.netlify.app",
       "img": "https://i.ibb.co/tTS1FkfD/kaido.png"
@@ -129,6 +129,36 @@
       "github": "#",
       "live": "https://benevolent-crumble-eaa521.netlify.app",
       "img": "https://i.ibb.co/ZR01fpPP/Payments-infrastructure.png"
+    },
+    {
+      "title": "Tabs Component",
+      "type": "web",
+      "subType": "react",
+      "description": "Simple and dynamic tabs layout for switching content sections in React.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://graceful-donut-ef93d1.netlify.app",
+      "img": "https://i.ibb.co/Lq17Dx7/1.png"
+    },
+    {
+      "title": "Markdown Previewer",
+      "type": "web",
+      "subType": "react",
+      "description": "Live Markdown editor and previewer built in React.js.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://frolicking-paprenjak-b3de34.netlify.app",
+      "img": "https://i.ibb.co/VWb8hMKP/markdown.png"
+    },
+    {
+      "title": "Random User Generator",
+      "type": "web",
+      "subType": "react",
+      "description": "Generates random user data using external APIs and displays the profile in React.",
+      "tech": ["React.js"],
+      "github": "#",
+      "live": "https://shiny-pastelito-6c68e3.netlify.app",
+      "img": "https://i.ibb.co/VYb3xGqP/random.png"
     }
   ],
   "categories": {
