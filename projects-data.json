@@ -5,7 +5,7 @@
       "type": "tool",
       "subType": "generator",
       "description": "AI-powered React Native screen generator from HTML/CSS mockups.",
-      "tech": ["Javascript", "React Native"],
+      "tech": ["Vanilla JavaScript", "React Native"],
       "github": "https://github.com/aminekhadraoui/BIGMOM",
       "live": "https://big-mom.netlify.app",
       "img": "https://i.ibb.co/S7ZFgLw1/bigmom.png"
@@ -14,8 +14,8 @@
       "title": "Kaido Backend Builder",
       "type": "tool",
       "subType": "backend",
-      "description": "Visual database and API builder with real-time collaboration.",
-      "tech": ["Node.js", "WebAssembly", "IndexedDB", "WebSocket"],
+      "description": "Client-side JavaScript visual builder for web templates and database structures with real-time collaboration features.",
+      "tech": ["Vanilla JavaScript","CSS Animations","HTML5"],
       "github": "https://github.com/aminekhadraoui/kaido",
       "live": "https://kaido-generator.netlify.app",
       "img": "https://i.ibb.co/tTS1FkfD/kaido.png"
