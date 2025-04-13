@@ -10,7 +10,7 @@
   "currentlyMastering": {
     "performance": [{ "icon": "🔧", "name": "React Native Performance Optimization" }],
     "architecture": [{ "icon": "📱", "name": "Cross-Platform Architecture" }],
-    "state-management": [{ "icon": "⚛️", "name": "State Management Solutions" }],
+    "state-management": [{ "icon": "⚛️ ", "name": "State Management Solutions" }],
     "security": [{ "icon": "🔐", "name": "Secure Mobile Authentication" }]
   }
 }
