@@ -34,7 +34,6 @@
     "color": "#ef4444",
     "techStack": ["AWS", "Docker", "Kubernetes", "CI/CD"]
   },
-  
   {
     "icon": "FiBox",
     "title": "CMS Integration",
