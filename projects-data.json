@@ -74,7 +74,7 @@
       "title": "Lorem Ipsum Generator",
       "type": "web",
       "subType": "react",
-      "description": "Randomized lorem ipsum text generator using React.js.",
+      "description": "Randomized lorem ipsum text generator using React.js",
       "tech": ["React.js"],
       "github": "#",
       "live": "https://adorable-alpaca-526eaf.netlify.app",
