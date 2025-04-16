@@ -5,7 +5,7 @@
     "node": [{ "name": "Node.js" }],
     "database": [{ "name": "MongoDB" }],
     "cloud": [{ "name": "Firebase" }],
-    "tools": [{ "name": "Git & CI/CD" }]
+    "tools": [{ "name": "Git & CI/CD" }] 
   },
   "currentlyMastering": {
     "performance": [{ "icon": "🔧", "name": "React Native Performance Optimization" }],
