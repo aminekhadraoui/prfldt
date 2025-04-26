@@ -1,0 +1,101 @@
+[
+  {
+    "triggers": ["head", "hot", "fever"],
+    "response": [
+      "For fever or headache:",
+      "1. Rest in a cool room",
+      "2. Drink plenty of fluids",
+      "3. Use a cool compress on forehead",
+      "4. Consider taking paracetamol (follow dosage instructions)",
+      "Seek medical help if temperature exceeds 39°C or persists more than 3 days"
+    ]
+  },
+  {
+    "triggers": ["cough", "throat", "sore"],
+    "response": [
+      "For cough/sore throat:",
+      "1. Gargle with warm salt water",
+      "2. Stay hydrated with warm liquids",
+      "3. Use cough drops or honey",
+      "4. Consider OTC cough syrup",
+      "See doctor if difficulty breathing or persists over 2 weeks"
+    ]
+  },
+  {
+    "triggers": ["stomach", "belly", "nausea"],
+    "response": [
+      "For stomach issues:",
+      "1. Stay hydrated with clear fluids",
+      "2. Avoid solid foods for few hours",
+      "3. BRAT diet (bananas, rice, applesauce, toast)",
+      "4. Consider antacids if heartburn",
+      "Seek help if severe pain, vomiting blood, or lasts >48h"
+    ]
+  },
+  {
+    "triggers": ["cut", "bleed", "wound"],
+    "response": [
+      "For cuts/bleeding:",
+      "1. Apply direct pressure with clean cloth",
+      "2. Clean with mild soap and water",
+      "3. Apply antibiotic ointment",
+      "4. Cover with sterile bandage",
+      "Go to ER if bleeding doesn't stop or deep wound"
+    ]
+  },
+  {
+    "triggers": ["burn", "scald"],
+    "response": [
+      "For burns:",
+      "1. Cool with running water for 10-20 mins",
+      "2. Don't apply ice directly",
+      "3. Cover with sterile non-stick dressing",
+      "4. Take pain relievers if needed",
+      "Seek immediate help for severe burns or large areas"
+    ]
+  },
+  {
+    "triggers": ["rash", "itch", "allergy"],
+    "response": [
+      "For rashes/allergies:",
+      "1. Apply cold compress",
+      "2. Use OTC antihistamines",
+      "3. Avoid scratching",
+      "4. Identify and remove allergen",
+      "Use epi-pen if breathing difficulty and call emergency"
+    ]
+  },
+  {
+    "triggers": ["sprain", "twist", "swell"],
+    "response": [
+      "For sprains:",
+      "1. Follow RICE method (Rest, Ice, Compression, Elevation)",
+      "2. Apply ice for 20min every 2h",
+      "3. Use elastic bandage",
+      "4. Keep joint elevated",
+      "Get X-ray if severe pain or can't bear weight"
+    ]
+  },
+  {
+    "triggers": ["nose", "bleeding", "nosebleed"],
+    "response": [
+      "For nosebleeds:",
+      "1. Sit upright, lean forward",
+      "2. Pinch nostrils for 10-15 mins",
+      "3. Apply ice to bridge of nose",
+      "4. Avoid blowing nose afterward",
+      "Seek help if bleeding >30min or after head injury"
+    ]
+  },
+  {
+    "triggers": ["insect", "sting", "bite"],
+    "response": [
+      "For insect bites/stings:",
+      "1. Remove stinger if present",
+      "2. Clean with soap and water",
+      "3. Apply cold compress",
+      "4. Use antihistamine cream",
+      "Call emergency if swelling in throat or breathing trouble"
+    ]
+  }
+]
