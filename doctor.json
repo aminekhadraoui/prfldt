@@ -3,7 +3,7 @@
     "triggers": ["head", "hot", "fever"],
     "response": [
       "For fever or headache:",
-      "1. Rest in a cool room",
+      "1. Rest in a cool room ",
       "2. Drink plenty of fluids",
       "3. Use a cool compress on forehead",
       "4. Consider taking paracetamol (follow dosage instructions)",
