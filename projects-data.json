@@ -1,6 +1,16 @@
 {
   "projects": [
     {
+      "title": "MedBook Pro",
+      "type": "web",
+      "subType": "crud",
+      "description": "Full-stack medical appointment platform with real-time availability tracking, doctor profiles, and patient management system. Features JWT authentication and responsive healthcare workflows.",
+      "tech": ["MongoDB", "Express", "Node.js", "React", "JWT"],
+      "github": "https://github.com/aminekhadraoui/dc",
+      "live": "https://doctor-7iyw.onrender.com",
+      "img": "https://i.ibb.co/wNHZTvLk/Untitled.png"
+    },
+    {
       "title": "ScreenForge Robot",
       "type": "tool",
       "subType": "generator",
