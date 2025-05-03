@@ -10,6 +10,7 @@
       "Seek medical help if temperature exceeds 39°C or persists more than 3 days"
     ]
   },
+  
   {
     "triggers": ["cough", "throat", "sore"],
     "response": [
